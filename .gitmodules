@@ -1,3 +1,6 @@
-[submodule "vendor/ePF_API"]
-	path = vendor/ePF_API
+[submodule "vendor/ePF_API_master"]
+	path = vendor/ePF_API_master
+	url = git@github.com:epforgpl/ePF_API.git
+[submodule "vendor/ePF_API_develop"]
+	path = vendor/ePF_API_develop
 	url = git@github.com:veriKami/ePF_API.git
